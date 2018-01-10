@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">準備死亡的app</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="welcome_use">歡迎使用，請選擇功能</string>
+
+    <!--主畫面-->
+    <string name="search_map_button">搜尋附近的餐廳</string>
+
+    <!--gps搜尋餐廳-->
+    <string name="canteen_diag_fresh_title">請稍後</string>
+    <string name="canteen_diag_fresh_text">正在幫你搜尋中，請稍後</string>
+</resources>
